@@ -26,4 +26,8 @@ In this repository, I will be writing about learning new technologies, working o
 
 🔗 Stay tuned for updates!  
 
-## 🎉 Good luck to all participants! 🚀
+### 🎉 Good luck to all participants! 🚀
+
+## ✨ Acknowledgements!
+
+First of all I want to say thanks to [Arman Zhalgasbayev](https://github.com/silvermete0r) who invited me to participate in this challange!
